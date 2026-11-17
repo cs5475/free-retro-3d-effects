@@ -1,0 +1,12 @@
+{
+  "image": "smoke-atlas.png",
+  "frame_width": 32,
+  "frame_height": 32,
+  "frame_count": 12,
+  "columns": 4,
+  "rows": 4,
+  "fps": 12,
+  "loop": true,
+  "order": "left to right, then top to bottom",
+  "from": "smoke-gray-32.png (Free Pixel Effects / Free Pixel Loops, CC0)"
+}
